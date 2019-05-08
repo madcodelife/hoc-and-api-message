@@ -1,4 +1,3 @@
-<script>
 function debounce(fn, delay) {
   let timer = null
   return function() {
@@ -58,4 +57,3 @@ export default {
     return vnode
   }
 }
-</script>
