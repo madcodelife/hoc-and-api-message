@@ -43,7 +43,7 @@ const Message = function(content, duration = 3000, type = '') {
 }
 ```
 
-### USE
+### Usage
 
 1. 克隆项目
 ```javascript
