@@ -30,9 +30,9 @@
     source-map "^0.5.0"
 
 "@babel/eslint-parser@^7.11.0":
-  version "7.25.9"
-  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.25.9.tgz#603c68a63078796527bc9d0833f5e52dd5f9224c"
-  integrity sha512-5UXfgpK0j0Xr/xIdgdLEhOFxaDZ0bRPWJJchRpqOSur/3rZoPbqqki5mm0p4NE2cs28krBEiSM2MB7//afRSQQ==
+  version "7.29.13"
+  resolved "https://registry.yarnpkg.com/@babel/eslint-parser/-/eslint-parser-7.29.13.tgz#8be8917c0d313eba6ca280331b0a69c4f246ea15"
+  integrity sha512-MURiSTWPmb5VXh3DQYXSgaZSO6+/Cx9ump7lIiVS7iawLGKhsFQScjDuUvVNA4QuPudQeF453Coxrb67wJboSQ==
   dependencies:
     "@nicolo-ribaudo/eslint-scope-5-internals" "5.1.1-v1"
     eslint-visitor-keys "^2.1.0"
@@ -3281,10 +3281,15 @@ esrecurse@^4.3.0:
   dependencies:
     estraverse "^5.2.0"
 
-estraverse@^4.0.0, estraverse@^4.1.0, estraverse@^4.1.1:
+estraverse@^4.0.0, estraverse@^4.1.0:
   version "4.2.0"
   resolved "https://registry.npm.taobao.org/estraverse/download/estraverse-4.2.0.tgz#0dee3fed31fcd469618ce7342099fc1afa0bdb13"
   integrity sha1-De4/7TH81GlhjOc0IJn8GvoL2xM=
+
+estraverse@^4.1.1:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/estraverse/-/estraverse-4.3.0.tgz#398ad3f3c5a24948be7725e83d11a7de28cdbd1d"
+  integrity sha512-39nnKffWz8xN1BU/2c79n9nB9HDzo0niYUqx6xyqUnyoAnQyyWpOTdZEeiCch8BBu515t4wp9ZmgVfVhn9EBpw==
 
 estraverse@^5.2.0:
   version "5.3.0"
@@ -7198,9 +7203,9 @@ semver@^6.0.0:
   integrity sha1-BeNZ7lceWtftZBpu7B5Ue6Ut6mU=
 
 semver@^6.3.1:
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.1.tgz#556d2ef8689146e46dcea4bfdd095f3434dffcb4"
-  integrity sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.2.tgz#f50413fbe5a686c6379385b2e8789b61c124a3c7"
+  integrity sha512-GYrCADwpu6yV5OAvchkQ27Z5wwMxWAEMg5NNWjyHh/5DboFFqbdbvYNIvZouQpxXyeMPoTOh0vdPYKlf0ZswdQ==
 
 send@0.16.2:
   version "0.16.2"
